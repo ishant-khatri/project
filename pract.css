@@ -1,0 +1,130 @@
+.topbar{
+    display: flex;
+  
+}
+
+.ytlogo{
+  display: flex;
+}
+.linebar{
+    border: none;
+    background-color: white;
+    font-size: 27px;
+}
+.ytlog{
+    margin-left: 20px;
+    height: 70px;
+    width: 150px;
+}
+.searchbar{
+    margin-top: 20px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.input{
+    font-size: 25px;
+    border-radius: 15px;
+    height: 32px;
+    width: 450px;
+    font-weight: bold;
+}
+.fa-solid{
+    height: 27px;
+    border: none;
+    background-color: white;
+   font-size: 25px;
+
+}
+.profbar{
+   display: grid;
+   grid-template-columns: 50px 50px 50px;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.homeline{
+    display: inline-block;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 210px;
+    grid-template-rows: 50px;
+    
+}
+.but{
+    font-size: 20px;
+    border: none;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.but:hover{
+    background-color: rgb(211, 206, 206);
+    color: white;
+    cursor: pointer;
+
+}
+.you{
+   display: grid;
+   grid-template-columns: 270px;
+   grid-template-rows: 50px;
+}
+.you1{
+    border: none;
+    font-size: 20px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+.botom{
+    display: flex;
+}
+.but1{
+    font-size: 20px;
+    height: 30px;
+    margin-top: 30px;
+    margin-right: 10px;
+    border-radius: 9px;
+    background-color: rgb(230, 230, 230);
+    border: none;
+}
+.but1:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.vedio-pre{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.pic{
+    width: 450px;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+.pic2{
+  margin-top: 0px;
+  border-radius: 35px;
+  height: 52px;
+}
+.thumb{
+
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.info{
+   align-content: top;
+   margin-top: 0px;
+    display: flex;
+}
+.chan{
+    margin-left: 20px;
+}
+.vidname{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+
+
+
